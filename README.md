@@ -26,9 +26,6 @@ Ein Java-Swing-basiertes Desktop-Programm zur Verwaltung von Mietern (Kiracı), 
   - Übersichtliche Darstellung in einer Tabelle
   - ZIP-Export des vollständigen übergeordneten Vorgangsordners
 
-- 🔄 **Zweirechnerbetrieb**
-  - Nutzung über gemeinsam genutzten Ordner (z. B. Dropbox, Netzlaufwerk)
-  - Keine Internetverbindung oder Datenbank erforderlich
 
 ---
 
@@ -36,7 +33,7 @@ Ein Java-Swing-basiertes Desktop-Programm zur Verwaltung von Mietern (Kiracı), 
 
 - **Programmiersprache**: Java
 - **Benutzeroberfläche**: Swing (Java GUI Toolkit)
-- **Speicherung**: Dateibasiert im lokalen Dateisystem
+- **Speicherung**: Dateibasiert im lokalen Dateisystem - Rechnungen in einer relationalen Datenbankverwaltung
 - **Lauffähig auf**: Windows, Linux, macOS
 
 ---
